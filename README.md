@@ -86,5 +86,3 @@ labels from segmentation and depth ground truth and store them in txt files (you
 need to edit some hardcoded values).
 
 Feel free to report any issue, I'm sure there are :). 
-
-Contact: michele.mancini1989@gmail.com
